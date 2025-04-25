@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/jeff-browns-projects-f693de37/v0-new-project-uadjm4wpl5h](https://vercel.com/jeff-browns-projects-f693de37/v0-new-project-uadjm4wpl5h)**
+**[https://michiganrpc.vercel.app/]([https://michiganrpc.vercel.app/])**
 
 ## Build your app
 
