@@ -12,9 +12,9 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+Project is live at:
 
-**[https://michiganrpc.vercel.app/]([https://michiganrpc.vercel.app/])**
+**(https://michiganrpc.vercel.app/)**
 
 ## Build your app
 
